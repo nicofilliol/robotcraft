@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "position.h"
+#include "teleop.h"
+
 #define MAP_DIM 25
 
 void drawMap(int **map)
