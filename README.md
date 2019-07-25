@@ -22,6 +22,6 @@ artificial intelligence;
 
 ### The Repository
 This repository includes the source code for the exercises and lab tasks as well as some notes from the following crafts:
-* Craft 3: Introduction to Programming
-* Craft 4: Mechatronics
-* Craft 5: Mobile Robotics Programming
+* Craft 2: Introduction to Programming
+* Craft 3: Mechatronics
+* Craft 4: Mobile Robotics Programming
