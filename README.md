@@ -27,3 +27,4 @@ This repository includes the source code for the exercises and lab tasks as well
 * Craft 4: Mobile Robotics Programming
 * Craft 5: Introduction to Linux
 * Craft 6: Robot Operating System
+* Craft 7: Artificial Intelligence
